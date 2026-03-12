@@ -32,3 +32,4 @@ if __name__ == "__main__":
     stats = collect_stats()
     save_data(stats)
     print("System data logged successfully!")
+    print("System data logged successfully!")
